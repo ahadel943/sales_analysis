@@ -123,11 +123,15 @@ so there is a slight increase of profitability with **0.56%**
     | October | $228,584.19 | $230,542.41 | -$1,958.22 | -0.85% |
     | November | $173,391.85 | $179,930.41 | -$6,538.56 | -3.63% |
     | December | $190,050.26 | $189,141.47 | $908.79 | 0.48% |
-    
+
+![product_sales_amount_vs_sales_target](https://github.com/ahadel943/sales_analysis/blob/main/charts/product_sales_amount_vs_sales_target.jpg)
+
 7) Based on the initial product analysis we have identified that:
     * **Product W** is the top performing product with a total sales of **$1,253,290.81**.
     * **Product Y** is the least performing product with a total sales of **$885,200.65**.
     * **Product X** has not only met the sales target but also exceeded it by **0.02%**.
+
+![product_performance_per_region](https://github.com/ahadel943/sales_analysis/blob/main/charts/product_performance_per_region.jpg)
 
 8) In our analysis i have discovered that:
     * In the **East** region, **Product Z** is the top-performing with a total of **$353,000.94**.
