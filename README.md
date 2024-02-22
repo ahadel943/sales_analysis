@@ -139,6 +139,10 @@ so there is a slight increase of profitability with **0.56%**
     * In the **South** region, **Product W** is the top-performing with a total of **$390,507.13**.
     * In the **West** region, **Product W** is the top-performing with a total of **$307,751.00**.
 
+![total_sales_amount_per_region](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_sales_amount_per_region.jpg)
+
+![region_sales_amount_vs_sales_target](https://github.com/ahadel943/sales_analysis/blob/main/charts/region_sales_amount_vs_sales_target.jpg)
+
 9) During our regional performance analysis:
     * **South** region was the most profitable region generated **$1,502,985.25** while **West** region was the least profitable generated **$1,063,884.64**.
 
