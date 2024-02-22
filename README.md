@@ -166,7 +166,23 @@ so there is a slight increase of profitability with **0.56%**
     * The **Non-Profit** customer segment has under-performed in **2** regions the **North** and the **West**.
 
     * There is no pattern controls the profitability in customer segmentation.
-    
+
+![representatives_sales_amount_vs_sales_target](https://github.com/ahadel943/sales_analysis/blob/main/charts/representatives_sales_amount_vs_sales_target.jpg)
+
+![income_orders_count_vs_loss_orders_count_by_sales_representative](https://github.com/ahadel943/sales_analysis/blob/main/charts/income_orders_count_vs_loss_orders_count_by_sales_representative.jpg)
+
+![income_sales_amount_vs_loss_sales_amount_by_sales_representative](https://github.com/ahadel943/sales_analysis/blob/main/charts/income_sales_amount_vs_loss_sales_amount_by_sales_representative.jpg)
+
+![sales_representative_performance_per_region_2](https://github.com/ahadel943/sales_analysis/blob/main/charts/sales_representative_performance_per_region_2.jpg)
+
+![team_sales_amount_vs_sales_target](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_vs_sales_target.jpg)
+
+![team_sales_amount_per_region](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_per_region.jpg)
+
+![team_sales_amount_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_per_customer_segment.jpg)
+
+![team_sales_amount_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_per_customer_segment.jpg)
+
 10) Based on our Sales Representative/Team Analysis the following insights were found:
     * A  slight variance in sales performance ( less than **1%** short ) varies among all representatives.
 
