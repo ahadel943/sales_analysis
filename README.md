@@ -76,9 +76,7 @@ so there is a slight increase of profitability with **0.56%**
     * After a continuous growth in profit from **January** to **April**, **May** has recorded a huge dep with **-26.65%** in profitability.
     * The month of May recorded profitability loss during that period, -0.06% in 2022 and -26.65% in 2023-26.65%
 
-![2022_monthly_sales_variance](https://github.com/ahadel943/sales_analysis/blob/main/charts/2022_monthly_sales_variance.jpg)
-
-![2022_monthly_sales_variance](https://github.com/ahadel943/sales_analysis/blob/main/charts/2022_monthly_sales_variance.jpg)
+![2022_monthly_sales_variance](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_actual_sales_vs_total_sales_target.jpg)
 
 5) After performing a sales variance analysis for the years 2022-2023 the following was found:
     * In **2022**, The target sales was **$2,643,059.36** while the actual sales was **$2,638,966.60** so **99.85%** of the target was achieved.
