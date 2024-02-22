@@ -49,6 +49,8 @@ After cleaning, preparing and understanding the data found the following notes
 
 ## Conclusions
 
+![total profit per year](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_year.jpg)
+
 1) Based on our data the year **2023** generated the highest profit with a total od **$2,668,470.90** and the year **2022** totaling **$2,638,966.60**
 so there is a slight increase of profitability with **0.56%**
 
