@@ -55,12 +55,16 @@ After cleaning, preparing and understanding the data found the following notes
 so there is a slight increase of profitability with **0.56%**
 
 ![total profit per month](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_month.jpg)
+
 2) The month of **July** generated the highest profit totaling **$522,332.98** on the other hand the month of **December** generated the lowest profit with a total of **$374,384.22** 
 
 ![total profit per weekday](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_weekday.jpg)
+
 3) **Monday** is the most profitable day of the week with a total of **$817,860.39**  and **Tuesday** is the least profitable totaling **$668,574.14**
 
-![total profit per weekday](https://github.com/ahadel943/sales_analysis/blob/main/charts/2023_sales_mom.jpg)
+![2023_sales_mom](https://github.com/ahadel943/sales_analysis/blob/main/charts/2023_sales_mom.jpg)
+
+![2022_sales_mom](https://github.com/ahadel943/sales_analysis/blob/main/charts/2022_sales_mom.jpg)
 
 4) After performing a **Month-over-Month** analysis the following was found:
     * **July** is the most profitable month in the year **2022**
@@ -71,6 +75,10 @@ so there is a slight increase of profitability with **0.56%**
     * **November** is least profitable month of **2023**
     * After a continuous growth in profit from **January** to **April**, **May** has recorded a huge dep with **-26.65%** in profitability.
     * The month of May recorded profitability loss during that period, -0.06% in 2022 and -26.65% in 2023-26.65%
+
+![2022_monthly_sales_variance](https://github.com/ahadel943/sales_analysis/blob/main/charts/2022_monthly_sales_variance.jpg)
+
+![2022_monthly_sales_variance](https://github.com/ahadel943/sales_analysis/blob/main/charts/2022_monthly_sales_variance.jpg)
 
 5) After performing a sales variance analysis for the years 2022-2023 the following was found:
     * In **2022**, The target sales was **$2,643,059.36** while the actual sales was **$2,638,966.60** so **99.85%** of the target was achieved.
