@@ -181,8 +181,6 @@ so there is a slight increase of profitability with **0.56%**
 
 ![team_sales_amount_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_per_customer_segment.jpg)
 
-![team_sales_amount_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/team_sales_amount_per_customer_segment.jpg)
-
 10) Based on our Sales Representative/Team Analysis the following insights were found:
     * A  slight variance in sales performance ( less than **1%** short ) varies among all representatives.
 
@@ -247,6 +245,14 @@ so there is a slight increase of profitability with **0.56%**
     * **Team Beta** is the under performer in **3** Customer segment.
     
     * **Team gamma** is the under performer in **1** Customer segment.
+
+![sales_amount_vs._sales_target_by_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/sales_amount_vs._sales_target_by_customer_segment.jpg)
+
+![income_sales_amount_vs._loss_income_amount_by_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/income_sales_amount_vs._loss_income_amount_by_customer_segment.jpg)
+
+![orders_count_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/orders_count_per_customer_segment.jpg)
+
+![avg._order_value_per_customer_segment](https://github.com/ahadel943/sales_analysis/blob/main/charts/avg._order_value_per_customer_segment.jpg)
 
 11) According to our customer segment:
     * **Small Business** has the highest sales amount with totaling **$819,023.39** with a **-0.99%** short on target.
