@@ -61,6 +61,7 @@ so there is a slight increase of profitability with **0.56%**
 3) **Monday** is the most profitable day of the week with a total of **$817,860.39**  and **Tuesday** is the least profitable totaling **$668,574.14**
 
 ![total profit per weekday](https://github.com/ahadel943/sales_analysis/blob/main/charts/2023_sales_mom.jpg)
+
 4) After performing a **Month-over-Month** analysis the following was found:
     * **July** is the most profitable month in the year **2022**
     * **June** is least profitable month of **2022**
