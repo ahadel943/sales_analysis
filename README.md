@@ -57,6 +57,7 @@ so there is a slight increase of profitability with **0.56%**
 ![total profit per month](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_month.jpg)
 2) The month of **July** generated the highest profit totaling **$522,332.98** on the other hand the month of **December** generated the lowest profit with a total of **$374,384.22** 
 
+![total profit per weekday](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_weekday.jpg)
 3) **Monday** is the most profitable day of the week with a total of **$817,860.39**  and **Tuesday** is the least profitable totaling **$668,574.14**
 
 4) After performing a **Month-over-Month** analysis the following was found:
