@@ -54,6 +54,7 @@ After cleaning, preparing and understanding the data found the following notes
 1) Based on our data the year **2023** generated the highest profit with a total od **$2,668,470.90** and the year **2022** totaling **$2,638,966.60**
 so there is a slight increase of profitability with **0.56%**
 
+![total profit per month](https://github.com/ahadel943/sales_analysis/blob/main/charts/total_profit_per_month.jpg)
 2) The month of **July** generated the highest profit totaling **$522,332.98** on the other hand the month of **December** generated the lowest profit with a total of **$374,384.22** 
 
 3) **Monday** is the most profitable day of the week with a total of **$817,860.39**  and **Tuesday** is the least profitable totaling **$668,574.14**
